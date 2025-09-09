@@ -56,8 +56,8 @@ flowchart TB
     end
 
     A -- "Raw Text & Metadata" --> B
-    B -- "Annotated Data" --> C
-    C -- "NLP processing" --> D
+    B -- "Annotated Data<br>NLP processing" --> C
+    C -- "Storing" --> D
     D -- "Structured Data" --> E
     E -- "JSON API" --> F
 ```

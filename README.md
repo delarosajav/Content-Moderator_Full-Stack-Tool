@@ -81,14 +81,23 @@ As part of the project, the system was deployed to analyze public discourse arou
 ![Dashboard Preview](screenshot_1.png)
 *Figure 1. Interactive Bar Chart – Category distribution with percentage values.*
 
-![Dashboard Preview]()
+![Dashboard Preview](screenshot_1-2.png)
+*Figure 1.2. Interactive Bar Chart – Category distribution with percentage values.*
+
+![Dashboard Preview](screenshot_2.png)
 *Figure 2. Bar Details Modal – Frequency, comments, user tracking, and action buttons.*
 
-![Dashboard Preview]()
+![Dashboard Preview](screenshot_4.png)
 *Figure 3. Interactive Tree Map – Hierarchical category overview with area proportional to frequency.*
 
-![Dashboard Preview]()
+![Dashboard Preview](screenshot_5.png)
+*Figure 3.2. Interactive Tree Map – Hierarchical category overview with area proportional to frequency.*
+
+![Dashboard Preview](screenshot_6.png)
 *Figure 4. Tree Map Details Modal – User info, category breakdown, frequency, comments, and speech labels.*
+
+![Dashboard Preview](screenshot_7.png)
+*Figure 4.2. Tree Map Details Modal – User info, category breakdown, frequency, comments, and speech labels.*
 
 ---
 

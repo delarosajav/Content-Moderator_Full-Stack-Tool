@@ -21,26 +21,52 @@ Due to the sensitive nature of the project (offensive language, vulnerable commu
 
 ---
 
-## ⚙️ Technical Stack  
-- **Model**: BETO (Spanish BERT) fine-tuned for hate speech detection  
+## ⚙️ Technical Full-Stack Architecture
+- **Model**: BETO (Spanish BERT) fine-tuned for hate speech detection and text classification 
 - **Libraries**: Hugging Face Transformers, PyTorch, Stanza, Scikit-learn  
 - **Pipeline**:  
   - Data mining with Selenium  
   - Classification pipeline (Python, Transformers, Stanza)  
-  - Storage with SQLite  
-  - Backend: Node.js  
-  - Frontend: D3.js interactive visualizations  
+  - Storage with SQLite
+- **Web Development**
+  - Backend: Node.js (JavaScript) y SQLite
+  - Frontend: D3.js interactive visualizations and Vanilla (JavaScript), CSS, HTML
+
+```mermaid
+flowchart TB
+    subgraph S1[Data Acquisition]
+        A[Selenium<br>Web Scraper]
+    end
+
+    subgraph S2[.]
+        B[HateSpeech-BETO<br>Classification]
+        C[Stanza<br>Linguistic Analysis]
+    end
+
+    subgraph S3[.]
+        D[(SQLite Database)]
+    end
+
+    subgraph S4[.]
+        E[Node.js<br>Backend API]
+    end
+
+    subgraph S5[.]
+        F[D3.js<br>Dashboard]
+    end
+
+    A -- "Raw Text & Metadata" --> B
+    B -- "Annotated Data" --> C
+    C -- "NLP processing" --> D
+    D -- "Structured Data" --> E
+    E -- "JSON API" --> F
+```
 
 ---
 
-## 📊 Training Dataset  
-- **Sources**:  
-  - [Spanish Hate Speech Superset (2024)](https://huggingface.co/datasets/manueltonneau/spanish-hate-speech-superset)  
-  - [HateCheck (2021)](https://huggingface.co/datasets/Paul/hatecheck)  
-
-- **Final dataset size**: 30,809 samples  
-- **Split**: 60% training / 40% validation  
-- **Balance**: includes transphobia, islamophobia, and intersectional hate speech categories  
+## 📊 Model Training Details  
+- 🤗 [Model on Hugging Face](https://huggingface.co/delarosajav95/HateSpeech-BETO-cased-v2)
+- [GitHub](https://github.com/delarosajav/HateSpeech-BETO-cased-v2)
 
 ---
 
@@ -61,10 +87,11 @@ This tool was designed to demonstrate how **AI and full-stack development** can 
 
 - **Input**: Social media threads (e.g., Twitter/X) scraped via Selenium  
 - **Processing**: Automatic hate speech classification (BETO Transformer) enriched with linguistic features (lemmatization, NER via Stanza)  
-- **Output & Visualization**:  
+- **Output & Visualization (Dashboard)**:  
   - Animated bar charts  
   - User treemaps  
-  - Interactive filters by user, date, or linguistic features  
+  - Interactive filters by user, date, or linguistic features
+  - Tracking info 
 
 ---
 

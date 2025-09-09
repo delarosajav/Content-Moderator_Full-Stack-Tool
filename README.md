@@ -135,27 +135,27 @@ As part of the project, the system was deployed to analyze public discourse arou
 *Figure 4.2. Tree Map Details Modal – User info, category breakdown, frequency, comments, and speech labels.*
 
 
-### 🖥️ Backend Implementation Highlights
+### 🖥️ Backend Implementation Highlights (Web Server Programming)
 
-| ![Dashboard](./images/dashboard-preview.png) | ![Code](./images/code-snippet-1.png) |
+| ![Code](screenshot_8.png) | ![Code](screenshot_8.png) |
 |----------------------------------------------|--------------------------------------|
-| *Figure 1: Interactive D3.js Dashboard*      | *Figure 2: Server Code - View I (Web Server Programming)*
+| *Figure 1: Server Code - View I*      | *Figure 2: Server Code - View II*
 
-| ![Code](./images/code-snippet-2.png)         | ![Code](./images/code-snippet-3.png) |
+| ![Code](screenshot_9.png)         | ![Code](screenshot_10.png) |
 |----------------------------------------------|--------------------------------------|
-| *Figure 3: Server Code - View II (Web Server Programming)* | *Figure 4: Server Code - View III (Content Moderation Use Case)* |
+| *Figure 3: Server Code - View III* | *Figure 4: Server Code - View IV* |
 
-| ![Code](./images/code-snippet-4.png)         | ![Code](./images/code-snippet-5.png) |
+| ![Code](screenshot_11.png)         | ![Code](screenshot_12.png) |
 |----------------------------------------------|--------------------------------------|
-| *Figure 5: Server Code - View IV (Web Server Programming)* | *Figure 6: Server Code - View V (Content Moderation Use Case)* |
+| *Figure 5: Server Code - View V* | *Figure 6: Server Code - View VI* |
 
-| ![Code](./images/code-snippet-6.png)         | ![Code](./images/code-snippet-7.png) |
+| ![Code](screenshot_13.png)         | ![Code](screenshot_14.png) |
 |----------------------------------------------|--------------------------------------|
-| *Figure 7: Server Code - View VI (Web Server Programming)* | *Figure 8: Server Code - View VII (Content Moderation Use Case)* |
+| *Figure 7: Server Code - View VII* | *Figure 8: Server Code - View VIII* |
 
-| ![Code](./images/code-snippet-8.png)         | ![Code](./images/code-snippet-9.png) |
+| ![Code](screenshot_15.png)         | ![Code](screenshot_16.png) |
 |----------------------------------------------|--------------------------------------|
-| *Figure 9: Server Code - View VIII*          | *Figure 10: Server Code - View IX*   |
+| *Figure 9: Server Code - View IX*          | *Figure 10: Server Code - View X*   |
 
 ---
 

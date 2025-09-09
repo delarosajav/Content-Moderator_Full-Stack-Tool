@@ -76,7 +76,9 @@ As part of the project, the system was deployed to analyze public discourse arou
 - **14.9%** were identified as hate speech  
 - The **dashboard** enabled filtering and exploration of the conversation dynamics for critical analysis  
 
+
 ### 📷 **Screenshots of the interactive D3.js dashboard:** 
+
 
 ![Dashboard Preview](screenshot_1.png)
 *Figure 1. Interactive Bar Chart – Category distribution with percentage values.*

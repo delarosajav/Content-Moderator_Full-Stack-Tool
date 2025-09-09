@@ -134,6 +134,29 @@ As part of the project, the system was deployed to analyze public discourse arou
 ![Dashboard Preview](screenshot_7.png)
 *Figure 4.2. Tree Map Details Modal – User info, category breakdown, frequency, comments, and speech labels.*
 
+
+### 🖥️ Backend Implementation Highlights
+
+| ![Dashboard](./images/dashboard-preview.png) | ![Code](./images/code-snippet-1.png) |
+|----------------------------------------------|--------------------------------------|
+| *Figure 1: Interactive D3.js Dashboard*      | *Figure 2: Server Code - View I (Web Server Programming)*
+
+| ![Code](./images/code-snippet-2.png)         | ![Code](./images/code-snippet-3.png) |
+|----------------------------------------------|--------------------------------------|
+| *Figure 3: Server Code - View II (Web Server Programming)* | *Figure 4: Server Code - View III (Content Moderation Use Case)* |
+
+| ![Code](./images/code-snippet-4.png)         | ![Code](./images/code-snippet-5.png) |
+|----------------------------------------------|--------------------------------------|
+| *Figure 5: Server Code - View IV (Web Server Programming)* | *Figure 6: Server Code - View V (Content Moderation Use Case)* |
+
+| ![Code](./images/code-snippet-6.png)         | ![Code](./images/code-snippet-7.png) |
+|----------------------------------------------|--------------------------------------|
+| *Figure 7: Server Code - View VI (Web Server Programming)* | *Figure 8: Server Code - View VII (Content Moderation Use Case)* |
+
+| ![Code](./images/code-snippet-8.png)         | ![Code](./images/code-snippet-9.png) |
+|----------------------------------------------|--------------------------------------|
+| *Figure 9: Server Code - View VIII*          | *Figure 10: Server Code - View IX*   |
+
 ---
 
 ## 🌍 Contributions  

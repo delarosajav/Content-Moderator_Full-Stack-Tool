@@ -55,7 +55,7 @@ Due to the sensitive nature of the project (offensive language, vulnerable commu
 
 ---
 
-## 🚀 Use Case & Case Study  
+## 🚀 Use Case: Content Moderation  
 
 This tool was designed to demonstrate how **AI and full-stack development** can support content moderation and digital research in Spanish-speaking contexts.  
 
@@ -68,7 +68,7 @@ This tool was designed to demonstrate how **AI and full-stack development** can 
 
 ---
 
-### 📊 Case Study: Political Discourse in Spain  
+## 📊 Case Study: Political Discourse in Spain  
 
 As part of the project, the system was deployed to analyze public discourse around a major political debate:  
 
@@ -76,9 +76,19 @@ As part of the project, the system was deployed to analyze public discourse arou
 - **14.9%** were identified as hate speech  
 - The **dashboard** enabled filtering and exploration of the conversation dynamics for critical analysis  
 
-📷 *Screenshot of the interactive D3.js dashboard:* 
+### 📷 **Screenshots of the interactive D3.js dashboard:** 
 
 ![Dashboard Preview](screenshot_1.png)
+*Figure 1. Interactive Bar Chart – Category distribution with percentage values.*
+
+![Dashboard Preview]()
+*Figure 2. Bar Details Modal – Frequency, comments, user tracking, and action buttons.*
+
+![Dashboard Preview]()
+*Figure 3. Interactive Tree Map – Hierarchical category overview with area proportional to frequency.*
+
+![Dashboard Preview]()
+*Figure 4. Tree Map Details Modal – User info, category breakdown, frequency, comments, and speech labels.*
 
 ---
 
